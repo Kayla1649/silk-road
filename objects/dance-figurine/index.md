@@ -50,7 +50,7 @@ With Women often being associated with beauty, elegance, and artistic skill, and
 ## Conclusion
 Female dancers in Tang Sancai pottery figurine, show how women wear central to performance, culture, expression, and social life during the Silk Road era.
 
-{% include typography/aside.html class="right" text=
+{% include typography/aside.html class="right" text
 The female figures have high hair buns and full sleeves;
 they stand gracefully erect, looking natural and elegant." %}
 
