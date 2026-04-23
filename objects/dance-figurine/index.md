@@ -1,6 +1,6 @@
 ---
 author: Kayla Johns
-title: "Kayla's material objects"
+title: "The Tang Sancai Pottery Figurines"
 layout: base
 header-image: images/han-coin-two-sides-violet.png
 thumbnail: images/han-coin-violet.png
@@ -13,7 +13,7 @@ tags:
 
 # The Altarpiece from a Monastery
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+This artifact is Tang Dynasty female dancing figurine that shows a female dancer. These figurines were commonly placed in tombs and were made to reflect the lifestyle and culture of the times. During the Tang Dynasty, Luoyang was a majior cultural center connected to the Silk Road. Which created a space of different traditions, including dance and different clothing styles to mix together.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
