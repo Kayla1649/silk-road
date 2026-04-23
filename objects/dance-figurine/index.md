@@ -15,50 +15,51 @@ tags:
 
 This artifact is Tang Dynasty female dancing figurine that shows a female dancer. These figurines were commonly placed in tombs and were made to reflect the lifestyle and culture of the times. During the Tang Dynasty, Luoyang was a majior cultural center connected to the Silk Road. Which created a space of different traditions, including dance and different clothing styles to mix together.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+
 
 
 ## Your First Section Heading
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+caption="Tang Dynasty female dancing figurine. These figures were often placed in tombs and reflected the court entertainment as well as the cultural life during the Silk Road period. [Source])"
+image-path="images/tang-dancer.png"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Tang Sancai pottery is known for its three-color glaze. Which is usally green, yellow, and white. The figurines are often detailed and lifelike, showing different movements, clothing, and social class. Many of the figurines found in Luoyang include dancers, musicians, and servants. This shows just how important performance and entertainment were during this era.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+The dancer in this artifact also shows how many women played a majior role in performing culture. The clothing is designed with long flowing sleeves, which helped emphasize dance moves. This reflects both artistic style and the influance the Silk Road had on cultural exchange, where foreign dance styles were introduced into China.[^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]:Liu, Fei. “The Inheritance of Tang Sancai Pottery Figurines in Luoyang…” :contentReference[oaicite:0]{index=0}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Tang Sancai pottery figurines are important because they show what everyday life look like during the Tang Dyansty. It was like a picture frming history in that era. They are also very important because they show artistic skill and craftmanship of the Tang Dynasty. These figures were made using a special glazing process where the three colors green, yellow, and brown would blend together during firing. Which created a unigue and flowing effect. This tecnique made each piece unique since they were each slightly different and added a sense of movment for the dance figures.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+It's important to also detail how realistic these figurings are till this day. They were built to last. The facial expressions, posture, and clothing all reflect the different social classes and the different roles in society. Because of the way Tang Sancau figurines showed the way things where. They are often seen as a visual record of the Tang Dynasty life rather then just decorative art.[^anotherrandomthing]
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## Silk Road Influance and Cultural Exchange
+The Tang Dynasty was known for being very open to outside cultures, which relfected in these dance figurines. Instead of just showing just the traditional Chinese styles, many figurines inclue features influances by Centeral Asia and other regions connected through the Silk Road. During this time dance became an important part of court life and entertainment. The woman were often the main performers. This is why there are more female dance figurines then maleones. Women were commonly trained in music and dance and were seen as central to ciltural perforances, especially in elite and court settings.  
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+The Silk Road played a major role in shaping this. As different cultures interacted through trade, new styles of music, dance, and clothing were introduced into China. Some Tang figurines even show performers connected to Central Asian traditions. And that is how today we know that musicians and dancers were influanced by foreign styles.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+With Women often being associated with beauty, elegance, and artistic skill, and their perforamces were ment to display these qualities. Their clothing, especially how they incorporated the long sleeves as part of their dance attire and choreography. Even the Silk garments that were worn was digned to nhighlight movement and make dances more visully expressive. This is why the posture, clothing, motion captured by the figurines is important. It gives us a look into the type of dances they would do, and sometimes the stories they would tell through dance.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Conclusion
+Female dancers in Tang Sancai pottery figurine, show how women wear central to performance, culture, expression, and social life during the Silk Road era.
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+"The female figures have high hair buns and full sleeves;
+they stand gracefully erect, looking natural and elegant." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+The description of female figures having "High hair buns and full sleeves" and standing in a graceful and elegant posture shows how women were represented in tongue, Dynasty society, especially in relation to dance and performance. These features were not random. They were ment to highlight ideals of beauty trends. They reflect womens beauty, refinement, and control. The high hair buns and detailed hairstyles, reflect status in fashion.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+
 
 ## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
+{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/Tang-dancers.png" %}
 
 The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
@@ -70,5 +71,4 @@ Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut i
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Liu, Fei. “The Inheritance of Tang Sancai Pottery Figurines in Luoyang: The Integration of Traditional Handicrafts and the Regional Cultural Background of Social Transformation.” Edelweiss Applied Science and Technology, 2024.
