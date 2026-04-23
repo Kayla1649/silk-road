@@ -11,7 +11,7 @@ tags:
   - object
 ---
 
-# The Altarpiece from a Monastery
+# About the Tang Sancai Figurines in Luoyang
 
 This artifact is Tang Dynasty female dancing figurine that shows a female dancer. These figurines were commonly placed in tombs and were made to reflect the lifestyle and culture of the times. During the Tang Dynasty, Luoyang was a majior cultural center connected to the Silk Road. Which created a space of different traditions, including dance and different clothing styles to mix together.
 
