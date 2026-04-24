@@ -63,8 +63,6 @@ File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-pa
 
 ## Bibliography
 
-- Whitfield, Roderick. The Art of Dunhuang. British Museum Press, 2000.
-https://www.britishmuseumshoponline.org/the-art-of-dunhuang.html
 - Shih, Shou-chien.
 “The Iconography of the Flying Apsaras in Dunhuang Art.”
 Artibus Asiae, Vol. 50, No. 1/2 (1990), pp. 89–120.
