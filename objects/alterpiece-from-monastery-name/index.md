@@ -1,19 +1,19 @@
 ---
-author: student name
-title: "Altarpiece from a Monastery"
+author: Kayla Johns
+title: "Dance as Spiritual Movement ALong the Silk Road"
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
-summary: This image is of the Han coin, not an altarpiece from a monastery.
-geo: [47.199, 102.834]
-placename: Karakorum
+header-image: images/dunhuang-dancers.png
+thumbnail: images/dunhuang-dancers.png
+summary: Flying apsaras from the Mogao Caves in Dunhuang, Gansu Province, China. These figures show movement flowing silk and the connection between dance and spirituality along the Silk Road
+geo: [40.0422, 94.8046]
+placename: Mogao Caves in Dunhuang, Gansu Province, China
 tags:
   - object
 ---
 
 # The Altarpiece from a Monastery
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+This Mogao Caves were a majior religious site along the Silk Road. Buddhist art developed through cultural exchange
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
