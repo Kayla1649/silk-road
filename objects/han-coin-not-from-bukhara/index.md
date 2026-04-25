@@ -1,36 +1,41 @@
 ---
-author: student name
-title: "Han Coin with Greek Inscription"
+author: Kayla Johns
+title: "Aparas (Flying Celestial Dancers)"
 layout: base
-header-image: images/han-coin-two-sides-blushwood.png
-thumbnail: images/han-coin-blushwood.png
-summary: One or two sentences about the coin but this one is not from Bukhara.
-geo: [39.877, 64.408]
-placename: Bukhara
+header-image: images/dunhuang-dancers.png
+thumbnail: images/dunghuang-dancers-thumb.png
+summary: A mural from Mogao Caves in Dunhuang showing a female dancing.
+geo: [40.042, 94.804]
+placename: Dunhuang (Mogao Caves)
 tags:
   - object
+  - silk-road
+  - dance
+  - women
 ---
 
-# Coin that is not from Bukhara
+# Technique and performance on the Silk Road
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+The Apsaras (FlyingCelestial Dancers) mural from the Mogao Caves at Dunguang provides a different perspective on dance by focusing on how movement was Performed and controlled, rather then just represented. Dunhang was located along the Silk Road it was a place where Chhinese, Indian, and Central Asia artistic traditions mixed into each other creating and shaping how dance was understood and practiced. In this painting it is showing the dancers skills with there careful balanced positiong, and precise hand gestures, suggesting that to dance like this required traing, repetition, and discipline. 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+This shifts focuses to woman's roles in dance were not just about beauty, expression, or symolism, but also about mastering structured movement. By examining this painting it becomes clear that dance was a learned skill that passed and reflected culture to the people.
 
 
-## Your First Section Heading
+## Capturing the Body in Stillness
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-blushwood.png"
+caption="Apsaras (celestial dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. This composition emphasizes balance, repeated positioning, and controlled movement." [Source](https://www.jstor.org/stable/3250037 [Source](https://www.metmuseum.org/art/collection/)
+image-path="images/dunhuang-white.png"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Here, the aspect of how dancers' bodies were positioned in a controlled manner is accentuated. In particular, it is shown that all the dancers stand on one foot, keeping their arms in nearly identical positions. It is not about any movements that would depict dancing. Instead, it provides an insight into the stability of the position taken by each person. By taking this picture at just the right moment, the artist made it possible for a viewer to consider the exact position of dancers, including their posture and body alignment.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+This means that, during that period, dance was viewed as the skillful combination of various body positions, which were associated with balance and stability. As a result, performers had to demonstrate not only elegance and gracefulness, but also a certain degree of control in their motions, even when they were in still position. Thus, this painting provides another way of approaching the topic and helps to understand that dance was viewed not only as some kind of performance, but also as a form of art.[^randomthing]
 
-[^randomthing]:Put your source information here.
+This perspective proves especially significant in regard to the analysis of female roles in performance. Indeed, in addition to portraying the images and performing various actions, women were expected to display their skills and abilities. In this case, the stability of the positions presented in this work can be considered as a reflection of this phenomenon.
+
+[^randomthing]:Whitfield, Roderick. *The Art of Dunhuang*. British Museum Press, 2000.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
