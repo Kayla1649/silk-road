@@ -54,28 +54,29 @@ What makes this image important is that it shows how these influences may have b
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Visual Order and Artistic Design
+One important feature of this painting is how the artist use balance and symmetry to organize the composition of the painting. The dancers are placed in nearly identical positions, which creates a sense of order and structure. The painting gives a feeling of carefree and arranged, almost like the dancers are a part of a pattern. This suggests that the dancers were not only performed, but visually structured to understand through reprtition
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+The mirrored positioning of the dancers shows that movement was not random, but carefully controlled and repeated, reflecting discipline and structure in performance." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+The sample of background also plays a role in this design by removing distractions. The artist makes the viewer focus entirely on the dancers and their posture. This allows the viewer to clearly see the positioning of the arms, legs, and body, which highlights the importance of precision in movement. The figures appears stable and grounded, which is different from more fluid descriptions of. apsaras that emphasizes motion.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+This design choice shows that the artist was not only interested in representing dance, but also in showing how movement is organized and controlled. Abra reinforces the idea that dance during this time was something that could be study, practice, and repeat it, rather than just performed how are you freestyle.
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-blushwood.png" %}
+## Composition and Focus in Representation
+{% include images/figure.html class="right" width="60%" caption="Detail of the Apsaras (Flying Celestial Dancers) from the Mogao Caves in Dunhuang, Gansu Province, China (40.0422, 94.8046). The mirrored posture and balanced positioning highlight control, repetition, and structured movement in dance. [Source](https://www.metmuseum.org/art/collection/)" image-path="images/dunhuang-white-detail.png" %}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+The composition of this painting also changes how the viewer understands the dancers. The large sides of the figures in their clear placement makes them the central focus of the image. They suggest that the purpose of the painting was not only decorative, but also instructional and representational, showing how dancers were expected to position their bodies.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+
+Overall, this painting shows that artistic design played a key role and how dance was understood. Through composition, positioning, and focus that painting highlights the importance of structure and performance and helps explain how women's roles in dance were shaped by both artisic and social expectations.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Shih, Shou-chien. “The Iconography of the Flying Apsaras in Dunhuang Art.” Artibus Asiae, vol. 50, no. 1/2, 1990, pp. 89–120.
+- Hansen, Valerie. The Silk Road: A New History. Oxford University Press, 2012.
+- Whitfield, Roderick. The Art of Dunhuang. British Museum Press, 2000.
