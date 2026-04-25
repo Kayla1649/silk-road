@@ -19,11 +19,12 @@ Unlike the Tang Sancai figurines which represent dancers in court life. This pai
 
 
 ## Women as Central Figures in Dance and Expression
-{% include images/figure.html
-class="right"
-width="48%"
-caption=" Their flowing ribbons and silk garments emphasize movement and show how dance was used to express spirituality and cultural exchange along the Silk Road. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+{% include images/figure.html class="right"
+width="40%"
+caption= "What a nice view" alt-text="Color photograph showing some hiking trails in a canyon of the Sandia foothills."
+image-path="/assets/images/backgrounds/hike-1.jpg"%}
+caption=" Their flowing ribbons and silk garments emphasize movement and show how dance was used to express spirituality and cultural exchange along the Silk Road. [Source](https://share.google/uqQrbt3XE8lFD0vD0)"
+image-path="images/dunhuang-dancers.jpg"
 %}
 
 In this painting, women are the main figure in dance. However, their role here goes beyond performance. These female figures represent ideal beauty, grace, and spiritual presences. Showing howing how women were associated with artistic and cultural expression during this era. Their movements are smooth and continuous and their bodies are shown in curved flowing positions that emphasize control and elegance.
