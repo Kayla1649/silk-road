@@ -31,7 +31,7 @@ In this painting, women are the main figure in dance. However, their role here g
 
 This helps explain why woman appear more often then men in dance imagery. Even though these dancers are symbolic, they still reflect how women were viewed in society. Dance became a way to express these expectations shaping how femininity and identity were represented.[^randomthing]
 
-[^randomthing]:Put your source information here.
+[^randomthing]:(https://share.google/uqQrbt3XE8lFD0vD0)
 
 
 
