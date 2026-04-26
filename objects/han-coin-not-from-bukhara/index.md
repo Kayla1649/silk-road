@@ -2,7 +2,7 @@
 author: Kayla Johns
 title: "Aparas (Flying Celestial Dancers)"
 layout: base
-header-image: images/dunhuang-dancers.png
+header-image: images/dunhuang-dancers-long.png
 thumbnail: images/dunghuang-dancers-thumb.png
 summary: A mural from Mogao Caves in Dunhuang showing a female dancing.
 geo: [40.042, 94.804]
