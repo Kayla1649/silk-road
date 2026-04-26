@@ -1,19 +1,23 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Kayla Johns
+title: "Tang Dynasty Court Lady with Draped Silk Garments"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+header-image: images/htang-attire-long.png
+thumbnail: images/tang-attire-thumb.png
+summary: TA Tang Dynasty painting highlighting women’s layered silk attire and how clothing contributed to dance, performance, and cultural identity along the Silk Road.
+geo: [34.341, 108.939]
+placename: Chang’an (Xi’an), China
 tags:
   - object
+  - silk-road
+  - dnace
+  - clothing
+  - women
 ---
 
-# A Monastery and Not a Coin
+# Clothing, Performance, and Culture Exchange
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+This object shifts the focus from the movement to what dancers wore and why it mattered. In Tang Dynasty visual culture, clothing was not just decorative, it played a direct role and how dance was performed and understood. The garment shown in this painting include layered silk ropes, long skirts, and draped fabric. This was designed to work with the body enhancing movement and making dressers more visible. By examining attire, this section shows how women's role and dance were shaped not only through performance, but also through the exceptions placed on how they should look, move, and present themselves in society.
 
 The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
