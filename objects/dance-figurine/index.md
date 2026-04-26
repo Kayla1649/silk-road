@@ -2,8 +2,8 @@
 author: Kayla Johns
 title: "The Tang Sancai Pottery Figurines"
 layout: base
-header-image: images/tang-dancers.png
-thumbnail: images/tang-dancers.png
+header-image: images/tang-dancers-long.png
+thumbnail: images/tang-dancers-thumb.jpeg
 summary: This image is of the Han coin, not an altarpiece from a monastery.
 geo: [34.278, 108.9324] 
 placename: Xi'an

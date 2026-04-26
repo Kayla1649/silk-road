@@ -1,9 +1,9 @@
 ---
 author: Kayla Johns
-title: "Dance as Spiritual Movement ALong the Silk Road"
+title: "Dance as Spiritual Movement Along the Silk Road"
 layout: base
-header-image: images/dunhuang-dancers.png
-thumbnail: images/dunhuang-dancers.png
+header-image: images/dunhuang-dancers-long.png
+thumbnail: images/dunhuang-dancers-thumb.png
 summary: Flying apsaras from the Mogao Caves in Dunhuang, Gansu Province, China. These figures show movement flowing silk and the connection between dance and spirituality along the Silk Road
 geo: [40.0422, 94.8046]
 placename: Mogao Caves in Dunhuang, Gansu Province, China
