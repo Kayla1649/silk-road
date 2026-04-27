@@ -21,8 +21,9 @@ This artifact is Tang Dynasty female dancing figurine that shows a female dancer
 ## Dance and Society: Women in Court Performance
 {% include images/figure.html
 class="right"
-width="48%"
+width="40%"
 caption="Tang Dynasty female dancing figurine. These figures were often placed in tombs and reflected court entertainment and cultural life during the Silk Road period. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Tang dynasty female dancer figurine with long flowing sleeves and raised arms"
 image-path="images/tang-dancer.png"
 %}
 
@@ -57,8 +58,7 @@ With Women often being associated with beauty, elegance, and artistic skill, and
 Female dancers in Tang Sancai pottery figurine, show how women wear central to performance, culture, expression, and social life during the Silk Road era.
 
 {% include typography/aside.html class="right" text="
-The female figures have high hair buns and full sleeves;
-they stand gracefully erect, looking natural and elegant." %}
+The female figures have high hair buns and full sleeves; they stand gracefully erect, looking natural and elegant." %}
 
 The description of female figures having "High hair buns and full sleeves" and standing in a graceful and elegant posture shows how women were represented in tongue, Dynasty society, especially in relation to dance and performance. These features were not random. They were ment to highlight ideals of beauty trends. They reflect womens beauty, refinement, and control. The high hair buns and detailed hairstyles, reflect status in fashion.
 

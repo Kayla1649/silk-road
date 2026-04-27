@@ -19,11 +19,11 @@ Unlike the Tang Sancai figurines which represent dancers in court life. This pai
 
 
 ## Women as Central Figures in Dance and Expression
-{% include images/figure.html class="right"
+{% include images/figure.html
+class="right"
 width="40%"
-caption= "What a nice view" alt-text="Color photograph showing some hiking trails in a canyon of the Sandia foothills."
-image-path="/assets/images/backgrounds/hike-1.png"%}
-caption=" Their flowing ribbons and silk garments emphasize movement and show how dance was used to express spirituality and cultural exchange along the Silk Road. [Source](https://share.google/uqQrbt3XE8lFD0vD0)"
+caption="Dunhuang apsaras (celestial dancers) with flowing ribbons and silk garments, representing spiritual movement and cultural exchange along the Silk Road. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Dunhuang mural showing apsaras floating with flowing ribbons and silk garments"
 image-path="images/dunhuang-dancers.png"
 %}
 
@@ -31,8 +31,7 @@ In this painting, women are the main figure in dance. However, their role here g
 
 This helps explain why woman appear more often then men in dance imagery. Even though these dancers are symbolic, they still reflect how women were viewed in society. Dance became a way to express these expectations shaping how femininity and identity were represented.[^randomthing]
 
-[^randomthing]:(https://share.google/uqQrbt3XE8lFD0vD0)
-
+[^randomthing]: Shih, Shou-chien. “The Iconography of the Flying Apsaras in Dunhuang Art.” *Artibus Asiae*, 1990.
 
 
 ## Cultural Exchange and the Influence of the Silk Road
@@ -47,7 +46,7 @@ The clothing in this painting also reflects this exchange. The long scarves and 
 
 
 {% include typography/aside.html class="right" text="
-In Dunhuang murals female dancers are not just performers. They are visual guides that communicate religious ideas, stories, and connect viewers to the spiritual world.." %}
+In Dunhuang murals, female dancers are not just performers—they guide the viewer and visually communicate religious ideas and spiritual meaning." %}
 
 Instead of including only on identity, this painting shows how dance function as a form of communication. The female dancers are placed in positions that guide the viewers, eyes across the wall, almost like their leading movement through the space. Their gestures and posture direct are intentional, helping to create a sense of rhythm and flow within the painting. This suggests that dance was understood as something that could organize space and meeting not just entertainment.
 
@@ -56,8 +55,13 @@ Because this artwork is inside a religious site, the dancers who take on a ritua
 This is different from the Tang Sancai figurines, where dancers are part of social in court life. Hear the same idea of movement is used in a more structured and symbolic way.
 
 ## Visual Rhythm and Artistic
-{% include images/figure.html class="right" width="60%" caption="Detail of Dunhuang apsaras showing directional movement and flowing lines that guide the viewer's eye across the composition." [Source](https://www.britishmuseumshoponline.org/the-art-of-dunhuang.html
-File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/dunhuang-detail.png" %}
+{% include images/figure.html
+class="right"
+width="40%"
+caption="Detail of Dunhuang apsaras showing flowing lines and directional movement guiding the viewer’s eye across the composition. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Close-up of Dunhuang apsaras showing flowing ribbons and directional movement"
+image-path="images/dunhuang-detail.png"
+%}
 
 
 ---
@@ -70,3 +74,4 @@ Artibus Asiae, Vol. 50, No. 1/2 (1990), pp. 89–120.
 https://www.jstor.org/stable/3250037
 - Hansen, Valerie. The Silk Road: A New History. Oxford University Press, 2012.
 https://global.oup.com/academic/product/the-silk-road-9780199939213
+

@@ -25,8 +25,9 @@ By examining attire, this section shows how women's role and dance were shaped n
 ## Women's Attire in Tang Dance
 {% include images/figure.html
 class="right"
-width="48%"
-caption="Tang Dynasty court Lady wearing layered silk garments, including a long skirt and draped out of rope. The following fabric highlights how clothing was designed to enhance movement and dance and performance. [Source](https://collections.mfa.org/objects/28127)"
+width="40%"
+caption="Tang Dynasty court lady wearing layered silk garments, including a long skirt and draped outer robe. The flowing fabric highlights how clothing was designed to enhance movement in dance and performance. [Source](https://collections.mfa.org/objects/28127)"
+alt-text="Tang dynasty court lady wearing layered silk clothing with flowing sleeves and draped fabric"
 image-path="images/tang-making-clothing.jpg"
 %}
 
@@ -54,7 +55,13 @@ The emphasis on flowing fabric and structured layering shows how a tired combine
 
 
 ## Detail and Design in Textile Representation
-{% include images/figure.html class="right" width="60%" caption="Detail of Tang Dynasty clothing showing patterned silk, layered garments, and draped fabric. These elements highlight the craftsmanship and design used to enhance movement and visual expression in dance. [Source](https://whb-oss.oss-cn-shanghai.aliyuncs.com/zhuzhan/xue/20230329/514186.html) image-path="images/tang-attire-picture.jpeg" %}
+{% include images/figure.html
+class="right"
+width="40%"
+caption="Detail of Tang Dynasty clothing showing patterned silk, layered garments, and draped fabric. These elements highlight the craftsmanship and design used to enhance movement and visual expression in dance. [Source](https://whb-oss.oss-cn-shanghai.aliyuncs.com/zhuzhan/xue/20230329/514186.html)"
+alt-text="Detail of Tang dynasty clothing showing layered silk fabric and decorative textile patterns"
+image-path="images/tang-attire-picture.jpeg"
+%}
 
 The detailed patterens and textures shown in the painting highlight the craftmanship of Tang Dynasty textiles. The use of repeating designs and layered fabric show that clothing was carefully constructed, not only for durability, but also for a visual impact. The patterns added depth and complexity to the overall appearance, making the figure stand out.
 

@@ -24,8 +24,9 @@ This shifts focuses to woman's roles in dance were not just about beauty, expres
 ## Capturing the Body in Stillness
 {% include images/figure.html
 class="right"
-width="48%"
-caption="Apsaras (celestial dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. This composition emphasizes balance, repeated positioning, and controlled movement." [Source](https://www.jstor.org/stable/3250037 [Source](https://www.metmuseum.org/art/collection/)
+width="40%"
+caption="Apsaras (celestial dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. This composition emphasizes balance, repeated positioning, and controlled movement. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Dunhuang apsaras mural showing dancers balanced on one foot with raised arms"
 image-path="images/dunhuang-white.png"
 %}
 
@@ -65,8 +66,13 @@ The sample of background also plays a role in this design by removing distractio
 This design choice shows that the artist was not only interested in representing dance, but also in showing how movement is organized and controlled. Abra reinforces the idea that dance during this time was something that could be study, practice, and repeat it, rather than just performed how are you freestyle.
 
 ## Composition and Focus in Representation
-{% include images/figure.html class="right" width="60%" caption="Detail of the Apsaras (Flying Celestial Dancers) from the Mogao Caves in Dunhuang, Gansu Province, China (40.0422, 94.8046). The mirrored posture and balanced positioning highlight control, repetition, and structured movement in dance. [Source](https://www.metmuseum.org/art/collection/)" image-path="images/dunhuang-white-detail.png" %}
-
+{% include images/figure.html
+class="right"
+width="40%"
+caption="Detail of the Apsaras (Flying Celestial Dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. The mirrored posture and balanced positioning highlight control, repetition, and structured movement in dance. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Close-up of Dunhuang apsaras showing mirrored posture and flowing garments"
+image-path="images/dunhuang-white-detail.png"
+%}
 The composition of this painting also changes how the viewer understands the dancers. The large sides of the figures in their clear placement makes them the central focus of the image. They suggest that the purpose of the painting was not only decorative, but also instructional and representational, showing how dancers were expected to position their bodies.
 
 
