@@ -5,6 +5,10 @@ layout: base
 header-image: images/dunhuang-dancers.png
 thumbnail: images/dunhuang-dancers-thumb.jpg
 summary: This thematic essay explores how women, dance, clothing, and spirituality reflected cultural exchange along the Silk Road during the Tang Dynasty.
+geo: [40.1421, 94.6619]
+placename: Dunhuang, China
+tags:
+  - essay
 ---
 
 # Women, Dance, and Cultural Exchange Along the Silk Road
@@ -24,9 +28,9 @@ The figurine also reflects the influence of the Silk Road because foreign-inspir
 {% include images/figure.html
 class="right"
 width="40%"
-caption="Dunhuang apsaras murals showing celestial dancers connected to Buddhist spirituality and Silk Road cultural exchange. [Source](https://www.e-dunhuang.com/)"
+caption="Apsaras mural from the Mogao Caves in Dunhuang showing flowing movement and Silk Road Buddhist artistic traditions. [Source](https://www.e-dunhuang.com)" [Source](https://www.e-dunhuang.com/)"
 alt-text="Dunhuang apsaras mural with flowing ribbons and silk garments"
-image-path="images/Mogao-cave-painting.png"
+image-path="images/mogao-cave-painting.png"
 %}
 
 The second and third objects, the apsaras murals from the Mogao Caves in Dunhuang, shift the focus from court entertainment to spirituality and religion. Unlike the Tang Sancai figurines, these celestial dancers are shown floating through space with flowing ribbons and silk garments. The apsaras are connected to Buddhist traditions that originally came from India and later spread into China through Silk Road interaction.
