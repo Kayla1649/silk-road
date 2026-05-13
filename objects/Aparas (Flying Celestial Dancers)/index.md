@@ -23,7 +23,7 @@ This shifts focuses to woman's roles in dance were not just about beauty, expres
 
 ## Capturing the Body in Stillness
 <div style="float:right; width:40%; margin-left:20px;">
-  <img src="silk-road/assets/images/dunhuang-white.png" alt="Dunhuang apsaras mural showing dancers balanced on one foot with raised arms" style="width:100%;">
+  <img src="/silk-road/assets/images/dunhuang-white.png" alt="Dunhuang apsaras mural showing dancers balanced on one foot with raised arms" style="width:100%;">
   <p><em>Apsaras (celestial dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. This composition emphasizes balance, repeated positioning, and controlled movement. [Source](https://www.metmuseum.org/art/collection/)</em></p>
 </div>
 
