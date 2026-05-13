@@ -3,7 +3,7 @@ author: Kayla Johns
 title: "Women, Dance, and Cultural Exchange Along the Silk Road"
 layout: base
 header-image: images/dunhuang-dancers.png
-thumbnail: images/dunhuang-dancers-thumb.jpg
+thumbnail: images/dunhuang-dancers.jpg
 summary: This thematic essay explores how women, dance, clothing, and spirituality reflected cultural exchange along the Silk Road during the Tang Dynasty.
 tags:
   - essay
