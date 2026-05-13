@@ -5,8 +5,6 @@ layout: base
 header-image: images/dunhuang-dancers.png
 thumbnail: images/dunhuang-dancers-thumb.jpg
 summary: This thematic essay explores how women, dance, clothing, and spirituality reflected cultural exchange along the Silk Road during the Tang Dynasty.
-geo: [40.1421, 94.6619]
-placename: Dunhuang, China
 tags:
   - essay
 ---
@@ -28,7 +26,7 @@ The figurine also reflects the influence of the Silk Road because foreign-inspir
 {% include images/figure.html
 class="right"
 width="40%"
-caption="Apsaras mural from the Mogao Caves in Dunhuang showing flowing movement and Silk Road Buddhist artistic traditions. [Source](https://www.e-dunhuang.com)" [Source](https://www.e-dunhuang.com/)"
+caption="Apsaras mural from the Mogao Caves in Dunhuang showing flowing movement and Silk Road Buddhist artistic traditions. [Source](https://www.e-dunhuang.com/)"
 alt-text="Dunhuang apsaras mural with flowing ribbons and silk garments"
 image-path="images/mogao-cave-painting.png"
 %}
@@ -55,7 +53,7 @@ The fourth object focuses on Tang Dynasty clothing and textile representation. C
 
 Silk itself was one of the most important materials traded along the Silk Road, connecting textile production directly to cultural and economic exchange. Through interaction with Central Asia and other connected regions, Tang clothing styles adopted new fabrics, decorative patterns, and layered designs.
 
-Women also played an important role in textile production and garment creation, meaning their labor became connected to larger systems of Silk Road trade. This object demonstrates that clothing was not simply decorative. It became part of artistic identity, social expectations, and performance itself.
+Women also contributed directly to textile production and garment design, linking female labor to larger systems of Silk Road trade and artistic exchange.
 
 ## Extracted Fifth Object
 
