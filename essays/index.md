@@ -2,8 +2,8 @@
 author: Kayla Johns
 title: "Structured Movement in Dunhuang Dance Murals"
 layout: base
-header-image: images/dunhuang-white.png
-thumbnail: images/dunhuang-white.png
+header-image: /silk-road/assets/images/dunhuang-white.png
+thumbnail: /silk-road/assets/images/dunhuang-white.png
 summary: This Dunhuang mural emphasizes discipline, balance, and structured movement in Silk Road dance traditions.
 geo: [40.0422, 94.8046]
 placename: Dunhuang, China
@@ -17,13 +17,10 @@ The second apsaras mural selected for this project focuses more specifically on 
 
 ## Women and Technical Performance
 
-{% include images/figure.html
-class="right"
-width="40%"
-caption="Apsaras dancers shown with mirrored posture and balanced positioning, emphasizing discipline and structured movement in performance. [Source](https://www.metmuseum.org/art/collection/)"
-alt-text="Dunhuang apsaras dancers standing in mirrored poses"
-image-path="images/dunhuang-white.png"
-%}
+<div style="float:right; width:40%; margin-left:20px;">
+  <img src="/silk-road/assets/images/dunhuang-white.png" alt="Dunhuang apsaras dancers standing in mirrored poses" style="width:100%;">
+  <p><em>Apsaras dancers shown with mirrored posture and balanced positioning, emphasizing discipline and structured movement in performance. [Source](https://www.metmuseum.org/art/collection/)</em></p>
+</div>
 
 The dancers in this mural are shown in nearly symmetrical positions with raised arms and carefully arranged posture. Their gestures appear intentional rather than spontaneous. This creates a sense of order and rhythm throughout the composition. Instead of emphasizing emotional expression alone, the mural suggests that dance was also understood as a disciplined practice requiring skill and mastery.[^randomthing]
 
@@ -44,13 +41,10 @@ The long ribbons and layered garments shown in the painting further emphasize mo
 
 ## Balance, Rhythm, and Performance
 
-{% include images/figure.html
-class="right"
-width="60%"
-caption="Detail of Dunhuang apsaras showing repetition, flowing movement, and visual rhythm throughout the composition. [Source](https://www.metmuseum.org/art/collection/)"
-alt-text="Detail of Dunhuang apsaras mural showing structured movement"
-image-path="images/dunhuang-white-detail.png"
-%}
+<div style="float:right; width:60%; margin-left:20px;">
+  <img src="/silk-road/assets/images/dunhuang-white-detail.png" alt="Detail of Dunhuang apsaras mural showing structured movement" style="width:100%;">
+  <p><em>Detail of Dunhuang apsaras showing repetition, flowing movement, and visual rhythm throughout the composition. [Source](https://www.metmuseum.org/art/collection/)</em></p>
+</div>
 
 Another important feature of this mural is its use of visual balance. The figures are arranged in ways that create stability across the wall. Their gestures mirror one another while the flowing ribbons connect the composition together. This repetition and symmetry create rhythm similar to choreography in actual dance performances.
 

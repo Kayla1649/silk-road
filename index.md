@@ -1,27 +1,29 @@
 ---
-title: The Silk Road
+title: Home
 layout: base
-date: 2026-01-24
 ---
 
-{% include images/jumbotron.html
-  image-path="/assets/images/ota-gate-khiva2.jpg"
-  title=""
-%}
+# The Silk Road
 
-# Welcome to the Silk Road Website
+Welcome to this Silk Road exhibit about dance, movement, and cultural exchange.
 
-{% include images/figure.html
-  class="right"
-  width="40%"
-  caption="Eastern Han ingot imprints with Greek inscriptions, excavated in Shaanxi, China. 1st-2nd century CE. Source: Joe Cribb, in 'Chinese lead ingots with barbarous Greek inscriptions in Coin Hoards' p.76-78 [Source: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-  alt-text="Color photograph showing some hiking trails in a canyon of the Sandia foothills."
-  image-path="/assets/images/han-coin-greek-inscription.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg"
-%}
+<div style="float:right; width:45%; margin-left:20px;">
+  <img src="/silk-road/assets/images/ota-gate-khiva2.jpg" alt="Ota Darvoza gate in Khiva" style="width:100%;">
+  <p><em>The Ota Darvoza gate in Khiva shows how Silk Road cities organized movement, trade, and cultural exchange.</em></p>
+</div>
 
-The name *Silk Road* evokes the idea of an ancient commercial route spanning the breadth of the known world, featuring caravans of traders bringing fine silk cloth from China to Rome. Yet the term has always been something of a misnomer—both revealing and concealing the diverse histories of exchange it represents. This class is intended as a historical journey that puts those ‘known’ histories in conversation with the ‘hidden’ ones. Building on a range of literary and material sources, we will interrogate the multiple silk roads and their afterlives. The class will take a thematic approach to cultures of exchange among people from diverse geographies, languages, and religions. Students will consider a novel approach to the history of cultural and economic exchange that links the earliest experiments in sericulture to the more contemporary Belt and Road Initiative undertaken by China. In doing so, the course reveals a fascinating history of connections and disjuncture that has shaped the Eurasian landscape and its cultures.
+The Silk Road connected cities, courts, monasteries, and markets across Asia. It carried goods such as silk, ceramics, and metalwork, but it also carried styles of music, dance, clothing, religion, and architecture.
 
-<br style="clear: both">
+This project focuses especially on how movement and performance shaped cultural exchange. Dance appears in Buddhist murals, court figurines, and Central Asian urban spaces. These examples show that the Silk Road was not only a trade network, but also a space where people learned and adapted ways of moving, dressing, worshiping, and performing.
 
-The header image on this page is a modern statue depicting premodern Silk Road merchants. The statue is on the [Ota Gate](https://en.wikipedia.org/wiki/Ota_Darvaza) in Khiva, modern day Uzbekistan, which is located about 600 kilometers east of the Caspian Sea. [Source: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)
+<div style="float:left; width:45%; margin-right:20px;">
+  <img src="/silk-road/assets/images/han-coin-greek-inscription.jpg" alt="Han coin with Greek-style inscription" style="width:100%;">
+  <p><em>A Han coin with Greek-style inscription demonstrates how objects carried visual signs of cross-cultural exchange.</em></p>
+</div>
+
+{% include typography/aside.html class="right" text="
+The Silk Road should be understood not only as a trade route, but as a network of cultural movement." %}
+
+By examining these objects and essays, this site highlights how women performers, sacred dancers, textiles, architecture, and objects all reveal the movement of ideas across regions.
+
+Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)
