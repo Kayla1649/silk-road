@@ -24,7 +24,7 @@ The figurine also reflects the influence of the Silk Road because foreign-inspir
 {% include images/figure.html
 class="right"
 width="40%"
-caption="Dunhuang apsaras murals showing celestial dancers connected to Buddhist spirituality and Silk Road cultural exchange. [Source](https://www.metmuseum.org/art/collection/)"
+caption="Dunhuang apsaras murals showing celestial dancers connected to Buddhist spirituality and Silk Road cultural exchange. [Source](https://www.e-dunhuang.com/)"
 alt-text="Dunhuang apsaras mural with flowing ribbons and silk garments"
 image-path="images/Mogao-cave-painting.png"
 %}
@@ -35,6 +35,13 @@ Because Dunhuang was located at an important crossroads between China, Central A
 
 {% include typography/aside.html class="right" text="
 The Silk Road was not only a network for trade, but also a network for artistic exchange, movement, and cultural transformation." %}
+{% include images/figure.html
+class="left"
+width="40%"
+caption="Tang Dynasty dancers represented movement, tradition, and cultural exchange through performance traditions connected to the Silk Road. [Source](https://idp.bl.uk/events/a-silk-road-oasis-life-in-ancient-dunhuang-at-the-british-library/)"
+alt-text="Tang Dynasty dancers with flowing sleeves and musicians"
+image-path="images/tang-dancer-detail.png"
+%}
 
 The structured movement and mirrored posture shown in the murals also suggest that dance during this period involved training, repetition, and discipline rather than spontaneous motion. Women dancers were represented as skilled performers who mastered controlled movement.
 
