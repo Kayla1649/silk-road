@@ -2,8 +2,8 @@
 author: Kayla Johns
 title: "Aparas (Flying Celestial Dancers)"
 layout: base
-header-image: /silk-road/assets/images/dunhuang-dancers-long.png
-thumbnail: /silk-road/assets/images/dunghuang-dancers-thumb.png
+header-image: images/dunhuang-dancers-long.png
+thumbnail: images/dunghuang-dancers-thumb.png
 summary: A mural from Mogao Caves in Dunhuang showing a female dancing.
 geo: [40.042, 94.804]
 placename: Dunhuang (Mogao Caves)
@@ -22,10 +22,13 @@ This shifts focuses to woman's roles in dance were not just about beauty, expres
 
 
 ## Capturing the Body in Stillness
-<div style="float:right; width:40%; margin-left:20px;">
-  <img src="/silk-road/assets/images/dunhuang-white.png" alt="Dunhuang apsaras mural showing dancers balanced on one foot with raised arms" style="width:100%;">
-  <p><em>Apsaras (celestial dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. This composition emphasizes balance, repeated positioning, and controlled movement. [Source](https://www.metmuseum.org/art/collection/)</em></p>
-</div>
+{% include images/figure.html
+class="right"
+width="40%"
+caption="Apsaras (celestial dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. This composition emphasizes balance, repeated positioning, and controlled movement. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Dunhuang apsaras mural showing dancers balanced on one foot with raised arms"
+image-path="images/dunhuang-white.png"
+%}
 
 This painting emphasizes a different aspect of dance by focusing on how the body is held by a controlled position rather than how it moves through space. The dancers are shown standing on 1 foot with their arms raised and nearly identical positions. Then creating a sense of balance instability at the same time. Instead of showing continuous motion, the image captures a single precise movement, also a pause within a large performance. This shows the viewer to study the exact placement of the body, including posture, alignment, and control.
 
@@ -63,10 +66,13 @@ The sample of background also plays a role in this design by removing distractio
 This design choice shows that the artist was not only interested in representing dance, but also in showing how movement is organized and controlled. Abra reinforces the idea that dance during this time was something that could be study, practice, and repeat it, rather than just performed how are you freestyle.
 
 ## Composition and Focus in Representation
-<div style="float:right; width:40%; margin-left:20px;">
-  <img src="/silk-road/assets/images/dunhuang-white-detail.png" alt="Close-up of Dunhuang apsaras showing mirrored posture and flowing garments" style="width:100%;">
-  <p><em>Detail of the Apsaras (Flying Celestial Dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. The mirrored posture and balanced positioning highlight control, repetition, and structured movement in dance. [Source](https://www.metmuseum.org/art/collection/)</em></p>
-</div>
+{% include images/figure.html
+class="right"
+width="40%"
+caption="Detail of the Apsaras (Flying Celestial Dancers) from the Mogao Caves in Dunhuang, Gansu Province, China. The mirrored posture and balanced positioning highlight control, repetition, and structured movement in dance. [Source](https://www.metmuseum.org/art/collection/)"
+alt-text="Close-up of Dunhuang apsaras showing mirrored posture and flowing garments"
+image-path="images/dunhuang-white-detail.png"
+%}
 The composition of this painting also changes how the viewer understands the dancers. The large sides of the figures in their clear placement makes them the central focus of the image. They suggest that the purpose of the painting was not only decorative, but also instructional and representational, showing how dancers were expected to position their bodies.
 
 
